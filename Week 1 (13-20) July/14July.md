@@ -1,4 +1,4 @@
-# 📅 Date: 13 July 2025
+# 📅 Date: 14 July 2025
 
 ## 🧠 What I Learned Today
 
@@ -38,7 +38,7 @@
 
 ## Note for Tomorrow myself
 
-- What i did today is study i feel little down bcz i studied 7-8 hours but actual thing i learned 3-4 hour more time wasted on error and solving stuff 🤗
+- What i did today is study i feel little down bcz i studied 7-8 hours but actual thing i learned 3-4 hour more time wasted on error and solving stuff 😕 
 
 ## TIME
 
