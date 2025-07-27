@@ -34,3 +34,5 @@
 ## TIME
 
 -- 40 min --
+
+✨“I wasn’t at my best today, but I was still better than my worst. That’s growth.” ✨
