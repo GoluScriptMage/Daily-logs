@@ -15,7 +15,7 @@
 
 ## 🔥 Realizations / Reflections
 
-> Relaized that nothing beats u more than the stye in eye and headache
+> Realized that nothing beats you more than the stye pain in eye and headache
 
 ## 🛠 Tomorrow’s Plan
 

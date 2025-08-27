@@ -30,4 +30,4 @@
 
 ## TIME
 
--- Sample line for time spent --
+-- Sample line for time spent ---
