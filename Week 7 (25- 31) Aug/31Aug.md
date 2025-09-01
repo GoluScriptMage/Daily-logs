@@ -7,7 +7,7 @@
 
 ## 💻 What I Built / Practiced
 
-- I built a react router demo pratice app 
+- I built a react router demo pratice app
 - And I also built a design in the figma.
 
 ## 🔍 Issues or Doubts
