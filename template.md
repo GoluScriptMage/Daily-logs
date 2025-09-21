@@ -14,7 +14,7 @@
 
 ## 🔥 Realizations / Reflections
 
-> Sample line for realizations/reflections
+> Sample line for realizations/reflection
 
 ## 🛠 Tomorrow’s Plan
 
