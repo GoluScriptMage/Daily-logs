@@ -145,4 +145,5 @@ If you’re doing something similar, drop a star ⭐, fork, or share your own ro
 Personal learning log. Content licensed under CC BY-NC 4.0 (non‑commercial reuse with attribution). Code snippets: MIT unless stated.
 
 ---
-> This file will evolve. Perfect is a trap—shipping beats polishing.
+> Perfect is a trap—shipping beats polishing.
+
