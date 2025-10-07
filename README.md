@@ -2,7 +2,7 @@
 
 > Building in public. Logging the grind. Sharpening the craft one small deliberate step at a time.
 
-![Start Date](https://img.shields.io/badge/Start-13_Jul_2025-4caf50?style=flat-square) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![Mindset](https://img.shields.io/badge/Mindset-Consistency-blueviolet?style=flat-square)  
+![Start Date](https://img.shields.io/badge/Start-13_Jul_2025-4caf50?style=flat-square) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![Mindset](https://img.shields.io/badge/Mindset-Consistency-blueviolet?style=flat-square)  and
 
 ---
 ## 🧠 Why This Exists
