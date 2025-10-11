@@ -68,7 +68,7 @@ Mood: 🔵 / 🟢 / 🔴
 Focus: (e.g. API pagination)  
 What I Did:
 - 
-- 
+-  
 Obstacle(s):
 - 
 Lesson(s) / Micro-insight:
