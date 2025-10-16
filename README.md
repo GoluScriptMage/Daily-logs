@@ -5,7 +5,7 @@
 ![Start Date](https://img.shields.io/badge/Start-13_Jul_2025-4caf50?style=flat-square) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![Mindset](https://img.shields.io/badge/Mindset-Consistency-blueviolet?style=flat-square) 
 
 ---
-## 🧠 Why This Exists b
+## 🧠 Why This Exists b 
 I wanted a place that isn’t polished like a portfolio and isn’t throwaway like random notes. This is the in‑between: the **raw timeline** of leveling up as a full‑stack dev. Instead of chasing perfect outputs, I’m tracking **reps**: reading, building, debugging, shipping, reflecting.
 
 **Core rules:**
