@@ -1,11 +1,11 @@
- # 🚀 Daily Developer Journey
+    # 🚀 Daily Developer Journey
 
 > Building in public. Logging the grind. Sharpening the craft one small deliberate step at a time.
 
-![Start Date](https://img.shields.io/badge/Start-13_Jul_2025-4caf50?style=flat-square) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![Mindset](https://img.shields.io/badge/Mindset-Consistency-blueviolet?style=flat-square)  
+![Start Date](https://img.shields.io/badge/Start-13_Jul_2025-4caf50?style=flat-square) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![Mindset](https://img.shields.io/badge/Mindset-Consistency-blueviolet?style=flat-square) 
 
 ---
-## 🧠 Why This Exists
+## 🧠 Why This Exists b 
 I wanted a place that isn’t polished like a portfolio and isn’t throwaway like random notes. This is the in‑between: the **raw timeline** of leveling up as a full‑stack dev. Instead of chasing perfect outputs, I’m tracking **reps**: reading, building, debugging, shipping, reflecting.
 
 **Core rules:**
@@ -68,7 +68,7 @@ Mood: 🔵 / 🟢 / 🔴
 Focus: (e.g. API pagination)  
 What I Did:
 - 
-- 
+-  
 Obstacle(s):
 - 
 Lesson(s) / Micro-insight:
@@ -145,4 +145,5 @@ If you’re doing something similar, drop a star ⭐, fork, or share your own ro
 Personal learning log. Content licensed under CC BY-NC 4.0 (non‑commercial reuse with attribution). Code snippets: MIT unless stated.
 
 ---
-> This file will evolve. Perfect is a trap—shipping beats polishing.
+> Perfect is a trap—shipping beats polishing.
+
