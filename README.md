@@ -1,4 +1,4 @@
-    # 🚀 Daily Developer Journey
+     # 🚀 Daily Developer Journey
 
 > Building in public. Logging the grind. Sharpening the craft one small deliberate step at a time.
 
