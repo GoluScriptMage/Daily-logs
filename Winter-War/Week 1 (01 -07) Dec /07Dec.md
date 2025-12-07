@@ -1,0 +1,1 @@
+Just leaned 1 hour of Typescript but starting run from tomorrow 
