@@ -2,10 +2,14 @@
 
 > Building in public. Logging the grind. Sharpening the craft one small deliberate step at a time.
 
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=GoluScriptMage.Daily-logs" alt="visitors"/>
+</p>
+
 ![Start Date](https://img.shields.io/badge/Start-13_Jul_2025-4caf50?style=flat-square) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![Mindset](https://img.shields.io/badge/Mindset-Consistency-blueviolet?style=flat-square) 
 
 ---
-## 🧠 Why This Exists b 
+## 🧠 Why This Exists 
 I wanted a place that isn’t polished like a portfolio and isn’t throwaway like random notes. This is the in‑between: the **raw timeline** of leveling up as a full‑stack dev. Instead of chasing perfect outputs, I’m tracking **reps**: reading, building, debugging, shipping, reflecting.
 
 **Core rules:**
@@ -38,12 +42,31 @@ WeekN/
 > Add highlights as you go. Tiny wins count.
 
 ---
+## 🛠️ Skills & Technologies
+
+### Core Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend & Real-time
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Learning Track
+![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 ## 🔥 Current Focus Stack
-- Frontend: React / Next (or Vanilla drills) + UI refinement
-- Backend: Node.js (Express / Fastify) + API hygiene
+- Frontend: React / Next.js + TypeScript + UI refinement
+- Backend: Node.js (Express / Fastify) + WebSockets + Redis
 - Data Layer: PostgreSQL + Prisma / raw SQL drills
 - Tooling: Git discipline, testing habits, small automation scripts
-- Learning Track: Algorithms (short daily reps > marathon sessions)
+- Learning Track: DSA & Algorithms (short daily reps > marathon sessions)
 
 ---
 ## 🎯 Active Goals (Short Horizon)
@@ -55,6 +78,19 @@ WeekN/
 
 ---
 ## 📈 Progress Visuals
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/GoluScriptMage/GoluScriptMage/output/github-contribution-grid-snake-dark.svg)
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GoluScriptMage&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoluScriptMage&theme=radical" alt="GitHub Streak" />
+</p>
+
 Manual for now—can be auto later.
 
 Streak (placeholder): `■■■■■■■■■■□□□□□□□□`  (10 / 20)  
@@ -139,6 +175,10 @@ Feel free to open a PR suggesting: better structure, a productivity hack, or a l
 ---
 ## 🤝 Connect
 If you’re doing something similar, drop a star ⭐, fork, or share your own routine.
+
+<p align="center">
+<img src="https://profile-counter.glitch.me/GoluScriptMage/count.svg" alt="Profile views counter"/>
+</p>
 
 ---
 ## 📜 License
